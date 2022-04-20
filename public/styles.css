@@ -14061,3 +14061,8 @@ fieldset {
     box-shadow: .267rem .267rem .267rem 0 rgba(3, 3, 3, .3);
     transition: opacity .2s ease
 }
+
+#ads {
+    margin: 0 auto;
+    text-align: center;
+}
