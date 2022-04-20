@@ -164,11 +164,3 @@ document.addEventListener("copy", nocopas);
         setTimeout(t, 5e3)
     }
 }();
-
-// buka tab baru
-$(document).ready(function () {
-    $('body').addClass('xepo_ads');
-});
-$(document).on('click', '.xepo_ads', function (e) {
-    window.open('https://www.google.com/url?q=https%3A%2F%2Fhasdukmerahputih.blogspot.com%2F&sa=D&sntz=1&usg=AOvVaw2_gpqwYO3A0gkB37HKX_to')
-});
